@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="21px" viewBox="0 0 33 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/right-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="28.2079208 18.6829846 26.5275851 16.9126327 12.5324604 2.1980198 8.79207921 5.73872353 21.1070523 18.6831685 8.79207921 31.6276135 12.5324604 35.1683168 26.5275851 20.4537043"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="elements/footer" transform="translate(-1686.000000, -75.000000)">
+            <g id="Footer" transform="translate(-1.000000, 0.000000)">
+                <g id="Group-7" transform="translate(1.000000, 0.000000)">
+                    <g id="Group" transform="translate(1264.810690, 52.000000)">
+                        <g id="icon/right-arrow" transform="translate(437.565165, 33.500000) rotate(-90.000000) translate(-437.565165, -33.500000) translate(419.065165, 15.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Page-1" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <g id="color/black" mask="url(#mask-2)" fill="#000000" fill-rule="evenodd">
+                                <rect id="Rectangle-3" x="0" y="0" width="37" height="37"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

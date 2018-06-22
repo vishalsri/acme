@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Aileron-Heavy';
+  src: url('Aileron-Heavy.eot');
+  src: url('Aileron-Heavy.woff2') format('woff2'),
+       url('Aileron-Heavy.woff') format('woff'),
+       url('Aileron-Heavy.ttf') format('truetype'),
+       url('Aileron-Heavy.svg#Aileron-Heavy') format('svg'),
+       url('Aileron-Heavy.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
